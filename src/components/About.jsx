@@ -6,7 +6,7 @@ const About = () => {
       <h2>About Me</h2>
       <div className="flex-about">
         <div className="about-text">
-          <p>My passion for data sparked when I took my Data Science and Artificial Intelligence class when I was 
+          <p>My passion for data sparked when I took my Data Science and Artificial Intelligence classes when I was 
             in my 4th year in college. Before that, I have no idea on how Python works, I only know c++ back then because
             I was in a Science High School where I have robotics class. After that, I took my thesis and it was all 
             about training a deep learning model. I took Coursera courses and joined the Huawei Certified ICT 
