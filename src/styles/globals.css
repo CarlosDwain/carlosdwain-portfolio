@@ -185,7 +185,7 @@ hr {
 }
 
 .about-container .flex-about .about-text {
-  width: 60%;
+  width: 50%;
 }
 
 .about-container .flex-about .about-text p {
@@ -201,7 +201,7 @@ hr {
 .about-container .flex-about .about-img .profile-img {
   overflow: hidden;
   width: 300px;
-  height: 300px;
+  height: 400px;
   object-fit: cover;
   border: 2px solid #DADADB;
   filter: grayscale(100%);
