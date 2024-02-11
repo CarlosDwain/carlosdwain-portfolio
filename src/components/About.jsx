@@ -6,15 +6,15 @@ const About = () => {
       <h2>About Me</h2>
       <div className="flex-about">
         <div className="about-text">
-          <p>
-            A detail-oriented individual with a strong work ethic who wants to consistently deliver results. 
-            Eager to apply my skills and knowledge in computer networking, IT, AI, electronics and sciences 
-            in real-world applications.</p>
-          {/* <p>Throughout my career, I have worked on a wide range of projects, from simple static websites to
-            complex enterprise-level applications. I am experienced in working with a variety of development
-            tools and frameworks, including React, Angular, Vue.js, Node.js, and Laravel. I am always eager
-            to learn and explore new technologies, and I am constantly seeking out opportunities to improve
-            my skills and knowledge.</p> */}
+          <p>My passion for data sparked when I took my Data Science and Artificial Intelligence class when I was 
+            in my 4th year in college. Before that, I have no idea on how Python works, I only know c++ back then because
+            I was in a Science High School where I have robotics class. After that, I took my thesis and it was all 
+            about training a deep learning model. I took Coursera courses and joined the Huawei Certified ICT 
+            Associate - Artificial Intelligence (HCIA-AI) just to widen my understanding on data.  
+          </p>Fast forward today, I learned a lot and I plan to continue growing. I am taking the Datacamp courses on 
+          the data engineering track. It has been a year or two now when I first embark my journey on data. Until now, 
+          data still amazes me and I think I just found my passion. Well, let's see on how far can I take this passion. 
+          Thank you for reading!</p> 
         </div>
         <div className="about-img">
           <Image src='/images/profile.jpg' className="profile-img" width={500} height={500}/>
