@@ -14,7 +14,7 @@ const About = () => {
           </p>
           <p>Fast forward today, I learned a lot and I plan to continue growing. I am taking the Datacamp courses on 
           the data engineering track. It has been a year or two now when I first embark my journey on data. Until now, 
-          data still amazes me and I think I just found my passion. Well, let's see on how far can I take this passion. 
+          data still amazes me and I think I just found my passion. Well, let's see on how far I can take this passion. 
           Thank you for reading!</p> 
         </div>
         <div className="about-img">
