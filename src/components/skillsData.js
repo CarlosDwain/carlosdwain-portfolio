@@ -3,6 +3,7 @@ const skillsData = [
     // { name: 'CSS', iconClass: 'fa-brands fa-css3-alt css-icon' },
     // { name: 'JavaScript', iconClass: 'fa-brands fa-js-square' },
     { name: 'Python', iconClass: 'fa-brands fa-python' },
+    { name: 'SQL', iconClass: 'fa-solid fa-database' },
     { name: 'C++', iconClass: '' },
     { name: 'MATLAB', iconClass: '' },
     // { name: 'Node', iconClass: 'fa-brands fa-node-js node-icon' },
