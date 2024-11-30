@@ -13,4 +13,11 @@ export const projectData = [
         'This repository contains the source code for a client-server application that leverages a trained model to classify plant diseases and estimate their severity',
       gitHubLink: 'https://github.com/CarlosDwain/pechayCam-app',
     },
+    {
+      id: 3,
+      title: 'Real-Time-Weather-Data-Pipeline-for-Philippine-Cities',
+      description:
+        '[on-going] A complete data engineering pipeline project that fetches weather data in real-time for cities in the Philippines',
+      gitHubLink: 'https://github.com/CarlosDwain/Real-Time-Weather-Data-Pipeline-for-Philippine-Cities',
+    },
   ];
