@@ -6,13 +6,22 @@ const About = () => {
       <h2>About Me</h2>
       <div className="flex-about">
         <div className="about-text">
-          <p>My passion for data began in my fourth year of college when I took Data Science and Artificial Intelligence courses. 
-          At the time, I had no experience with Python—my only programming background was in C++, which I learned in Science High School through a robotics class. 
-          That turning point opened a new world for me.</p>
-          <p>During my thesis, I dove deeper by training a deep learning model, which fueled my curiosity even more. 
-          To expand my knowledge, I took online courses on Coursera and earned the Huawei Certified ICT Associate – Artificial Intelligence (HCIA-AI) certification.</p>
-          <p>Since then, I’ve continued to grow in the field. I’m currently taking the Data Engineering track on DataCamp to sharpen my skills and deepen my understanding. 
-          Data continues to amaze me, and I’m excited to see where this passion will take me next.
+          <p>
+          My interests lie at the intersection of data and electronics. During my undergraduate years at Mapúa University, I discovered a strong passion for data while exploring courses in Data Science and Artificial Intelligence. 
+          This pushed me to learn Python from scratch, complementing my background in C++ and robotics from Science High School.
+          </p>
+          <p>
+          Alongside this, I maintained a deep fascination with electronics and semiconductor technology. 
+          My thesis focused on the simulation and modeling of All-Spin Logic Devices—an emerging spintronic technology aimed at low-power, high-efficiency computing. 
+          This research solidified my appreciation for the physics behind next-generation semiconductor devices.
+          </p>
+          <p>
+          To deepen my understanding of data, I pursued certifications like the Huawei Certified ICT Associate – Artificial Intelligence (HCIA-AI) and completed multiple online courses on Coursera. 
+          I’m currently following the Data Engineering track on DataCamp to expand my skills in building scalable, data-driven systems.
+          </p>
+          <p>
+          Whether it's unlocking insights from data or diving into the physics of nanoscale devices, I find energy in solving complex problems. 
+          I'm excited to explore where this dual passion in data and semiconductors will take me.
           </p>
         </div>
         <div className="about-img">
