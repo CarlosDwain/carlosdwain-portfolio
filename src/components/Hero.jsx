@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="hero-text">
         <h1>Hey, I'm Carlos 👋</h1>
         <p>
-          I'm a 5th year student studying Electronics Engineering and Physics in Mapúa University. I love data and I want to be a data engineer someday.
+          I'm a double-degree student in Electronics Engineering and Physics from Mapúa University, passionate about data and aspiring to become a data engineer who transforms complex information into impactful solutions.
         </p>
         <div className="social-icons">
           <a
