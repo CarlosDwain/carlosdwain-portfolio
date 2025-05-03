@@ -17,7 +17,7 @@ export const projectData = [
       id: 3,
       title: 'Real-Time-Weather-Data-Pipeline-for-Philippine-Cities',
       description:
-        'A complete data engineering pipeline project that fetches weather data in real-time for cities in the Philippines and stores it in SQL server.',
+        'A complete data engineering pipeline project that fetches weather data in real-time for cities in the Philippines and stores it in Microsoft SQL server.',
       gitHubLink: 'https://github.com/CarlosDwain/Real-Time-Weather-Data-Pipeline-for-Philippine-Cities',
     },
   ];
