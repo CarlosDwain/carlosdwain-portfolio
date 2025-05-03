@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="hero-text">
         <h1>Hey, I'm Carlos 👋</h1>
         <p>
-          I'm a Mapúa University graduate in Electronics Engineering and Physics, passionate about data and aspiring to become a data engineer who transforms complex information into impactful solutions.
+          I'm a Mapúa University graduate with a background in Electronics Engineering and Physics, passionate about both data and semiconductor technology. I enjoy transforming complex information into practical solutions and exploring innovations in next-generation electronic devices.
         </p>
         <div className="social-icons">
           <a
