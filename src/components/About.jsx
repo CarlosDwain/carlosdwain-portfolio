@@ -25,7 +25,7 @@ const About = () => {
           </p>
         </div>
         <div className="about-img">
-          <Image src='/images/profile2.jpg' className="profile-img" width={500} height={500}/>
+          <Image src='/images/profile2.jpg' className="profile-img" width={700} height={700}/>
         </div>
       </div>
     </div>
