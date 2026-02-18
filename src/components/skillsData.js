@@ -4,6 +4,8 @@ const skillsData = [
     // { name: 'JavaScript', iconClass: 'fa-brands fa-js-square' },
     { name: 'Python', iconClass: 'fa-brands fa-python' },
     { name: 'SQL', iconClass: 'fa-solid fa-database' },
+    { name: 'JavaScript', iconClass: 'fa-brands fa-js-square' },
+    { name: 'HTML', iconClass: 'fa-brands fa-html5 html-icon' },
     { name: 'git', iconClass: 'fa-brands fa-git' },
     { name: 'MATLAB', iconClass: '' },
     { name: 'C++', iconClass: '' },
